@@ -5,7 +5,8 @@
  * @description (theme inspired from the ggo theme) The Akaza vs Rengoku theme
  * @source https://github.com/gamerbom97/akaza-vs-rengoku.git
  */
-
+ @import url('https://raw.githack.com/Ruben7173/Ruben7173.github.io/master/BetterDiscord-Themes/Modules/transparency2.css');
+ @import url('https://raw.githack.com/VaporousCreeper/BetterDiscord-ThemesAndPlugins/master/Themes/GGO_Kirito/core.css');
 :root{
     --background: url('https://i.imgur.com/zf7rB47.jpg');
     --activetext-colour: black;
